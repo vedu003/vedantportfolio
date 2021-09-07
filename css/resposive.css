@@ -71,7 +71,12 @@
     }
 
     .projectdiv .card{
-        width: 85%;
+        width: 80%;
+        margin-bottom: 3rem;
+    }
+
+    figure.snip1104 img{
+        width: 80%;
     }
 
     .contact_left{
@@ -157,6 +162,11 @@
         font-size: 1rem;
     }
 
+    .projectdiv .card{
+        width: 40%!important;
+        margin-bottom: 1rem;
+    }
+
     .icons{
         display: flex;
         justify-content: left;
@@ -186,5 +196,14 @@
     .contactsec {
         height: 50vh;
     }
-    
+
+    .projectdiv .card{
+        width: 30%;
+        margin-bottom: 1rem;
+    }
+
+    figure.snip1104 img{
+        width: 80%;
+    }
+
 }

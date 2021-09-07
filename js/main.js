@@ -1,5 +1,13 @@
+					/// Preloader
 
-                        //   riplle btn
+var preloader = document.getElementById('preloader');
+
+function loadingFunc(){
+    preloader.style.display = 'none';
+}
+					 
+					 
+					 //   riplle btn
 
 
 $(document).ready(function(e){

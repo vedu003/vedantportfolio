@@ -28,6 +28,15 @@ p{
     color:#001f60; 
 }
 
+#preloader {
+    width: 100%;
+    position: fixed;
+    height: 100vh;
+    background: #fff  url('../img/gif1.gif') no-repeat center;
+    z-index: 9999;
+}
+
+
                      /*============= home section ================ */
 
 .header{
